@@ -1,0 +1,10 @@
+{
+  "name": "com.qmrcl.sawc",
+  "version": "1.0.0",
+  "displayName": "SAW Controller",
+  "description": "Standalone Advanced Walk Controller for Unity",
+  "unity": "2023.3",
+  "author": {
+    "name": "Qmrcl"
+  }
+}
