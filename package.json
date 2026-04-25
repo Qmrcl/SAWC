@@ -9,7 +9,7 @@
     "url": "https://github.com/qmrcl"
   },
   "changelogUrl": "https://github.com/qmrcl/SAWC/blob/main/CHANGELOG.md",
-  "licensesUrl": "https://github.com/qmrcl/SAWC/blob/main/LICENSE",
+  "licensesUrl": "https://github.com/qmrcl/SAWC/blob/main/LICENSE.md",
   "documentationUrl": "https://qmrcl.github.io/SAWC-docs/",
   "dependencies": {
     "com.unity.inputsystem": "1.19.0",
